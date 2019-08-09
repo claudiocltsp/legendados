@@ -1,12 +1,12 @@
 ﻿1
 00:00:01,000 --> 00:00:04,500
-Entes Queridos
 The Loved Ones
 
 2
 00:00:05,000 --> 00:00:09,500
+Entes Queridos
 
-
+3
 00:00:10,333 --> 00:00:14,582
 <i>Na volta à escola,
 você pertencia à elite</i>
